@@ -4,8 +4,8 @@ A classic tank game written in Java in 2004.
 
 # Snapshots
 
-![Playing 1 - Stage 2](snapshots/Playing 1 - Stage 2.png)
-![Stage Editor](snapshots/Stage Editor.png)
+![Playing 1 - Stage 2](snapshots/Playing-1-Stage-2.png)
+![Stage Editor](snapshots/Stage-Editor.png)
 
 # License
 
